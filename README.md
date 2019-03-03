@@ -3,6 +3,7 @@
 ### 🔌 Adapter
 <details>
 <summary>View contents</summary>
+ 
 * [`ary`](#ary)
 * [`call`](#call)
 * [`collectInto`](#collectinto)
@@ -15,6 +16,7 @@
 * [`rearg`](#rearg)
 * [`spreadOver`](#spreadover)
 * [`unary`](#unary)
+
 </details>
 
 
